@@ -29,7 +29,7 @@
     <linkfile dest="README-IMXBSP" src="README"/>
   </project>
   
-  <project name="meta-aaeon-nxpimx8" path="sources/meta-aaeon-nxpimx8" remote="meta-aaeon-nxpimx8" revision="7bbd457157e2370343238d6d1c031921dc8cac16" upstream="main">
+  <project name="meta-aaeon-nxpimx8" path="sources/meta-aaeon-nxpimx8" remote="meta-aaeon-nxpimx8" revision="3652da2faf47dc326aa20d954c40cfa215aeac12" upstream="main">
     <linkfile dest="aaeon-imx-setup-release.sh" src="conf/aaeon-imx-setup-release.sh"/>
   </project>
 
