@@ -28,9 +28,9 @@ $ export PATH=\~/bin:$PATH
 
 ## (3)	Build NXP IMX BSP
    A small image that only allows a device to boot <br />
-   $ bitbake core-image-minimal
+   $ bitbake core-image-minimal <br />
    Builds an i.MX image with a GUI without any Qt content <br />
-   $ bitbake imx-imagemultimedia
+   $ bitbake imx-imagemultimedia <br />
    Builds an opensource Qt 6 image with Machine Learning features <br />
    $ bitbake imx-image-full
 
@@ -49,9 +49,9 @@ $ export PATH=\~/bin:$PATH
 
 ## (3)   Build NXP IMX BSP
    A small image that only allows a device to boot <br />
-   $ bitbake core-image-minimal
+   $ bitbake core-image-minimal <br />
    Builds an i.MX image with a GUI without any Qt content <br />
-   $ bitbake imx-imagemultimedia
+   $ bitbake imx-imagemultimedia <br />
    Builds an opensource Qt 6 image with Machine Learning features <br />
    $ bitbake imx-image-full
 ## (4)   Flash to SD Card
